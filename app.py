@@ -7,7 +7,11 @@ import streamlit as st
 st.set_page_config(page_title='MethaneWatch | Satellite Methane Data Engineering',layout='wide')
 st.title('MethaneWatch')
 st.caption('Independent scientific data engineering demonstration. Not affiliated with UNEP or Carbon Mapper. Historical records, not a live methane alert service.')
-root=Path('data/processed')
+root = (
+    Path('data/processed')
+    if Path('data/processed/plumes.csv').exists()
+    else Path('data/demo')
+)
 file=root/'plumes.csv'
 manifest=root/'run_manifest.json'
 if not file.exists():

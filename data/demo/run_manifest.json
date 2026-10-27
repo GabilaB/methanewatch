@@ -1,0 +1,13 @@
+{
+  "run_utc": "2026-10-27T16:04:11.487367+00:00",
+  "provider": "carbonmapper",
+  "input_file": "carbonmapper.json",
+  "sha256": "614f6d43cb2ee244a8ae8edc562fd72c62e25530f405e3d631a068fe892cee59",
+  "input_rows": 100,
+  "accepted_rows": 97,
+  "rejected_rows": 3,
+  "duplicate_rows": 0,
+  "flux_field": "emission_auto",
+  "flux_unit": "kg/h",
+  "notice": "Historical/public detections; not live alerts. Derived independently, not an official UNEP output."
+}

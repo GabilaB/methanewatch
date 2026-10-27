@@ -1,0 +1,2042 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.47170076252523,
+          31.47338977068013
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t191514c01s4001-B",
+        "observed_at": "2026-09-26T19:15:14.010000+00:00",
+        "flux_tph": 0.2984433805110232,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.13281933431086218,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.21057349609102,
+          30.086447672411026
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t174210c04s4001-A",
+        "observed_at": "2026-09-26T17:42:10.040000+00:00",
+        "flux_tph": 0.4089425714120845,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.12015002640702284,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.48992655171601,
+          39.495100742008304
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t173924c78s4001-A",
+        "observed_at": "2026-09-26T17:39:24.780000+00:00",
+        "flux_tph": 1.0898287131215731,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.1497948295046601,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.53872982308934,
+          39.514218433550866
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t173924c78s4001-B",
+        "observed_at": "2026-09-26T17:39:24.780000+00:00",
+        "flux_tph": 4.33008791991146,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.5812640568251224,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.41895375277036,
+          39.64791800082986
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t173924c78s4001-C",
+        "observed_at": "2026-09-26T17:39:24.780000+00:00",
+        "flux_tph": 4.920535224602587,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.4504794965485932,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33101669129854,
+          39.84842524185507
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t173924c78s4001-E",
+        "observed_at": "2026-09-26T17:39:24.780000+00:00",
+        "flux_tph": 3.1036028660396795,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.28955099802592354,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.40032727540721,
+          39.85922289958904
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t173924c78s4001-F",
+        "observed_at": "2026-09-26T17:39:24.780000+00:00",
+        "flux_tph": 3.5599273630484043,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.36331531391134364,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28230734836443,
+          39.92365764970776
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t173924c78s4001-G",
+        "observed_at": "2026-09-26T17:39:24.780000+00:00",
+        "flux_tph": 4.138361208579632,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.5737985909108274,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.22558311257764,
+          39.997459020062934
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t173924c78s4001-H",
+        "observed_at": "2026-09-26T17:39:24.780000+00:00",
+        "flux_tph": 2.9513518304132553,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.24757622383259945,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33989382873577,
+          40.00625004192875
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t173924c78s4001-I",
+        "observed_at": "2026-09-26T17:39:24.780000+00:00",
+        "flux_tph": 2.854096888104288,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.6315103158146383,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3269218878837,
+          40.03482898827491
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t173924c78s4001-J",
+        "observed_at": "2026-09-26T17:39:24.780000+00:00",
+        "flux_tph": 0.9634715172158775,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.18686917220187402,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.36525923470445,
+          40.05717054132293
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t173924c78s4001-K",
+        "observed_at": "2026-09-26T17:39:24.780000+00:00",
+        "flux_tph": 2.2836841541221227,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.2934591011511254,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.41573664104902,
+          40.060717805873736
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t173924c78s4001-L",
+        "observed_at": "2026-09-26T17:39:24.780000+00:00",
+        "flux_tph": 2.2374705462170614,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.3490697678784425,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.27197895248943,
+          40.21178295472478
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t173924c78s4001-M",
+        "observed_at": "2026-09-26T17:39:24.780000+00:00",
+        "flux_tph": 0.7300504246912208,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.4167506202721803,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.41702045793284,
+          39.64769696013806
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t173924c78s4001-O",
+        "observed_at": "2026-09-26T17:39:24.780000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.45344407955078,
+          39.853740496696815
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t173924c78s4001-P",
+        "observed_at": "2026-09-26T17:39:24.780000+00:00",
+        "flux_tph": 1.9646411515060989,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.3386627348401168,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.43246784524665,
+          39.89795865700839
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t173924c78s4001-R",
+        "observed_at": "2026-09-26T17:39:24.780000+00:00",
+        "flux_tph": 1.2286915117903983,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.31694056374963275,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28564620867114,
+          39.9229482292026
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t173924c78s4001-S",
+        "observed_at": "2026-09-26T17:39:24.780000+00:00",
+        "flux_tph": 2.0759206559045023,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.5601748830218979,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.33093849322378,
+          -28.791962059756635
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t145112c50s4001-A",
+        "observed_at": "2026-09-26T14:51:12.500000+00:00",
+        "flux_tph": 0.698674540150789,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.3059752417486461,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.346241945892814,
+          -25.654596449542254
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t144957c96s4001-A",
+        "observed_at": "2026-09-26T14:49:57.960000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.34378931802968,
+          -25.658449580863945
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t144957c96s4001-B",
+        "observed_at": "2026-09-26T14:49:57.960000+00:00",
+        "flux_tph": 2.96519699807994,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.14143804387894499,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.34676723697166,
+          -25.650804176361774
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t144957c96s4001-C",
+        "observed_at": "2026-09-26T14:49:57.960000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.95574188196005,
+          -21.3957501018846
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t144837c44s4001-A",
+        "observed_at": "2026-09-26T14:48:37.440000+00:00",
+        "flux_tph": 1.1239028227925885,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.5306468593729807,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.678567796507991,
+          35.785640703037245
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t112730c49s4001-A",
+        "observed_at": "2026-09-26T11:27:30.490000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CO2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.647752429201034,
+          49.996874555221325
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t112401c53s4001-A",
+        "observed_at": "2026-09-26T11:24:01.530000+00:00",
+        "flux_tph": 0.7893786619171409,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.1721809747493878,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.736058273749308,
+          49.97568960549327
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t112401c53s4001-B",
+        "observed_at": "2026-09-26T11:24:01.530000+00:00",
+        "flux_tph": 1.1426693668949008,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.2448799775042932,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.67677228999605,
+          49.980427884814134
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t112401c53s4001-C",
+        "observed_at": "2026-09-26T11:24:01.530000+00:00",
+        "flux_tph": 2.2383453423997035,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.3245031876332763,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.62597369020719,
+          49.968373361065886
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t112401c53s4001-D",
+        "observed_at": "2026-09-26T11:24:01.530000+00:00",
+        "flux_tph": 3.2811017901407435,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.28629888260317327,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.628536532195938,
+          49.96803584521393
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t112401c53s4001-E",
+        "observed_at": "2026-09-26T11:24:01.530000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.687016643229327,
+          49.96642401146701
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t112401c53s4001-F",
+        "observed_at": "2026-09-26T11:24:01.530000+00:00",
+        "flux_tph": 1.090081267566932,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.22018335118246693,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.61506517906207,
+          50.00174922323231
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t112401c53s4001-G",
+        "observed_at": "2026-09-26T11:24:01.530000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21015210321187,
+          32.380223555866934
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t095452c13s4001-A",
+        "observed_at": "2026-09-26T09:54:52.130000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6108823800503,
+          37.7407341844401
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t095339c05s4001-A",
+        "observed_at": "2026-09-26T09:53:39.050000+00:00",
+        "flux_tph": 0.3871042481899728,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.12461741370340759,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.478968402040294,
+          24.436684574142078
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t082356c77s4001-A",
+        "observed_at": "2026-09-26T08:23:56.770000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CO2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.47942007823622,
+          24.436410665943697
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t082356c77s4001-B",
+        "observed_at": "2026-09-26T08:23:56.770000+00:00",
+        "flux_tph": 0.285577507957734,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.08934389721475544,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.36629213227724,
+          53.86700410252567
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-A",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 1.17654742189009,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.19433067986013097,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.32952400904423,
+          54.522880185623194
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-AA",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 1.4058553016588549,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.2911102111614788,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.30322358370262,
+          54.55107563971475
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-AC",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 1.46203835473782,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.20791572015452564,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.29671572679842,
+          54.5486415282862
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-AD",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 1.6171892425679675,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.30631148530056435,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.32749138014975,
+          54.597230182999084
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-AF",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 2.251410485713009,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.2620272672137404,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.33126269229467,
+          54.5980872873258
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-AG",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 2.269967254986639,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.2525182430309504,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.07485274005307,
+          54.5621198907821
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-AJ",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 1.0610509477354062,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.28868515462509425,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.0838632493037,
+          54.564043657861106
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-AM",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 1.8059352680870306,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.3992101839059711,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.30672445459686,
+          54.620307348917464
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-AN",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.27329694630276,
+          54.56520369047266
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-AO",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 0.6530177011985757,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.19744036841182022,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.42294514104424,
+          54.541350908669244
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-AQ",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 0.7967831364122236,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.20069756489165932,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.13430793453176,
+          54.53637901250278
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-AS",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 1.078263013019954,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.4040816841361584,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.4016836642603,
+          53.92093588467864
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-C",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 0.46826577851273377,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.182105681681527,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.39850003694477,
+          53.914314931824805
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-D",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 0.583719580745138,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.1408182975121476,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.38787597918855,
+          53.9463081402846
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-E",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 0.5134091559081542,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.1316383537036856,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.39985295070835,
+          53.95130109056109
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-F",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 0.37795358749844205,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.09592764259156021,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.40759290416457,
+          53.95294895526382
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-G",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 0.6988868783423015,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.150765807246278,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.27644998194523,
+          54.07700845159911
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-I",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 0.6181603229117769,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.21548479099259224,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.29410937502331,
+          54.10090516267897
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-J",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 0.28295800213640315,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.2455269631247485,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.18284471172376,
+          54.11695033608075
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-K",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 1.4836749174299178,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.45793919146142104,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.18371695337953,
+          54.11460928612013
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-L",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 0.5706994503735173,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.23157236709873535,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.15183322474729,
+          54.12317641536302
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-N",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 0.45277153436676754,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.18086498853825184,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.04538622088984,
+          54.11288193332166
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-P",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 1.2673111956039618,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.2964903654166764,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.07755363305114,
+          54.19113700595031
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-T",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 0.5111267620797221,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.15407424808091066,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.94598807185793,
+          54.18247391465181
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-U",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 0.4052187322161686,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.1400535284108535,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.92576717581812,
+          54.21436157286317
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-X",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 0.7161660891417382,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.13823276932792453,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.90781623412408,
+          54.21133948068311
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-Y",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 0.5862145341587671,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.16649117004075756,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.42971918840607,
+          54.54458639650622
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t064213c39s4001-Z",
+        "observed_at": "2026-09-26T06:42:13.390000+00:00",
+        "flux_tph": 1.5461800974982591,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.18589111705730807,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.54794663977236,
+          26.064773737906933
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t051642c36s4001-A",
+        "observed_at": "2026-09-26T05:16:42.360000+00:00",
+        "flux_tph": 0.8572769882819695,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.15341141481600223,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5780887946118,
+          26.05678279055583
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t051642c36s4001-C",
+        "observed_at": "2026-09-26T05:16:42.360000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.50559175182332,
+          25.878341702485855
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t051642c36s4001-D",
+        "observed_at": "2026-09-26T05:16:42.360000+00:00",
+        "flux_tph": 0.3175988067030268,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.0699200910205506,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.46352807348654,
+          25.80104832851923
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t051642c36s4001-G",
+        "observed_at": "2026-09-26T05:16:42.360000+00:00",
+        "flux_tph": 0.7360770478608181,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.18356641341187516,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69831963851368,
+          38.09440517327309
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t051331c51s4001-A",
+        "observed_at": "2026-09-26T05:13:31.510000+00:00",
+        "flux_tph": 0.21163851059609373,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.033208704599764924,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68114010136918,
+          38.193531295251034
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t051331c51s4001-B",
+        "observed_at": "2026-09-26T05:13:31.510000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CO2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.63820979955796,
+          38.18251039044449
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t051331c51s4001-C",
+        "observed_at": "2026-09-26T05:13:31.510000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CO2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.61896843120525,
+          38.18191876266704
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t051331c51s4001-D",
+        "observed_at": "2026-09-26T05:13:31.510000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CO2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.60456346477497,
+          38.17111699281597
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t051331c51s4001-E",
+        "observed_at": "2026-09-26T05:13:31.510000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CO2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.63693678862955,
+          38.178826720269996
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t051331c51s4001-F",
+        "observed_at": "2026-09-26T05:13:31.510000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CO2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.58757443566418,
+          38.192168474326394
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t051331c51s4001-H",
+        "observed_at": "2026-09-26T05:13:31.510000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CO2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.57016696812832,
+          38.17350530436249
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t051331c51s4001-I",
+        "observed_at": "2026-09-26T05:13:31.510000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CO2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.51258766549603,
+          38.18223188341025
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t051331c51s4001-J",
+        "observed_at": "2026-09-26T05:13:31.510000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CO2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.54239295645897,
+          38.24477200005512
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t051331c51s4001-K",
+        "observed_at": "2026-09-26T05:13:31.510000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CO2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6907345462181,
+          38.08197300285471
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t051331c51s4001-M",
+        "observed_at": "2026-09-26T05:13:31.510000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CO2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.59875103406898,
+          38.04803243229094
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t051331c51s4001-P",
+        "observed_at": "2026-09-26T05:13:31.510000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CO2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.67116096500416,
+          37.83799777452242
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t051331c51s4001-Q",
+        "observed_at": "2026-09-26T05:13:31.510000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CO2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.73712293265862,
+          37.726273990132924
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t051331c51s4001-S",
+        "observed_at": "2026-09-26T05:13:31.510000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CO2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69182874860564,
+          38.0536476015663
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t051331c51s4001-T",
+        "observed_at": "2026-09-26T05:13:31.510000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CO2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69123982059159,
+          38.088957949898486
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t051331c51s4001-X",
+        "observed_at": "2026-09-26T05:13:31.510000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CO2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.15862551765821,
+          14.77145205806049
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260926t034614c31s4001-A",
+        "observed_at": "2026-09-26T03:46:14.310000+00:00",
+        "flux_tph": 1.7356963931303295,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 1.7093930075414627,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.05066568985725,
+          40.55782946457063
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260925t195238c84s4001-A",
+        "observed_at": "2026-09-25T19:52:38.840000+00:00",
+        "flux_tph": 0.34252313899701603,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.13917398030644898,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.71205197214942,
+          29.396905034656925
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260925t182301c48s4001-A",
+        "observed_at": "2026-09-25T18:23:01.480000+00:00",
+        "flux_tph": 4.230168265391379,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.7052318474443078,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.71193715820203,
+          29.394416623641362
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260925t182301c48s4001-B",
+        "observed_at": "2026-09-25T18:23:01.480000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.73762481386467,
+          37.87710522086702
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260925t182014c55s4001-A",
+        "observed_at": "2026-09-25T18:20:14.550000+00:00",
+        "flux_tph": 1.0671522609700907,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.24103699181937802,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.66265493587646,
+          38.132800921289856
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260925t182014c55s4001-B",
+        "observed_at": "2026-09-25T18:20:14.550000+00:00",
+        "flux_tph": 1.237743064570658,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.2869588914238758,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.88077901388566,
+          -11.92780032430116
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260925t165945c87s4001-A",
+        "observed_at": "2026-09-25T16:59:45.870000+00:00",
+        "flux_tph": 2.3454549536150986,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.21689359944025918,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.75179922931781,
+          19.469442598841894
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260925t165112c02s4001-A",
+        "observed_at": "2026-09-25T16:51:12.020000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.631502810798764,
+          -34.532000324944335
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260925t153214c72s4001-A",
+        "observed_at": "2026-09-25T15:32:14.720000+00:00",
+        "flux_tph": 7.104280034992593,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": 0.8711000976273784,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.62547868939835,
+          -34.53609333471311
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260925t153214c72s4001-B",
+        "observed_at": "2026-09-25T15:32:14.720000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.62591614924432,
+          -34.53351525735344
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260925t153214c72s4001-C",
+        "observed_at": "2026-09-25T15:32:14.720000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.627109407397086,
+          -34.531894620331656
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260925t153214c72s4001-D",
+        "observed_at": "2026-09-25T15:32:14.720000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.62664877083155,
+          -34.52951143974973
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260925t153214c72s4001-F",
+        "observed_at": "2026-09-25T15:32:14.720000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.60625683929038,
+          -34.52503942798628
+        ]
+      },
+      "properties": {
+        "detection_id": "tan20260925t153214c72s4001-G",
+        "observed_at": "2026-09-25T15:32:14.720000+00:00",
+        "flux_tph": null,
+        "source_id": null,
+        "provider": "carbonmapper",
+        "flux_uncertainty_tph": null,
+        "instrument": "tan",
+        "platform": "Planet Tanager 1",
+        "gas": "CH4"
+      }
+    }
+  ]
+}
