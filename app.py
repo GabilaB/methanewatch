@@ -3,6 +3,7 @@ import json
 from pathlib import Path
 import pandas as pd
 import streamlit as st
+import pydeck as pdk
 
 st.set_page_config(page_title='MethaneWatch | Satellite Methane Data Engineering',layout='wide')
 st.title('MethaneWatch')
@@ -29,10 +30,61 @@ st.caption(f"Processed: {meta.get('run_utc','unknown')} | Input SHA256: {meta.ge
 if not df.empty:
     if {'latitude','longitude'}.issubset(df.columns):
         st.subheader('Satellite detections')
-        st.map(df.dropna(subset=['latitude','longitude']),latitude='latitude',longitude='longitude')
+        map_df = df.dropna(subset=["latitude", "longitude"]).copy()
+
+        map_df["flux_display"] = map_df["flux_tph"].apply(
+            lambda x: f"{x:.3f} t/h" if pd.notna(x) else "Not available"
+        )
+        map_df["uncertainty_display"] = map_df["flux_uncertainty_tph"].apply(
+            lambda x: f"±{x:.3f} t/h" if pd.notna(x) else "Not available"
+        )
+        map_df["observed_display"] = map_df["observed_at"].astype(str)
+
+        layer = pdk.Layer(
+            "ScatterplotLayer",
+            data=map_df,
+            get_position="[longitude, latitude]",
+            get_radius=18000,
+            radius_min_pixels=5,
+            radius_max_pixels=12,
+            get_fill_color=[206, 69, 48, 190],
+            pickable=True,
+            auto_highlight=True,
+            id="methane-plumes",
+        )
+
+        deck = pdk.Deck(
+            map_style=None,
+            initial_view_state=pdk.ViewState(
+                latitude=15,
+                longitude=0,
+                zoom=1.2,
+                pitch=0,
+            ),
+            layers=[layer],
+            tooltip={
+                "html": """
+                    <b>Satellite methane detection</b><br/>
+                    <b>Plume:</b> {detection_id}<br/>
+                    <b>Observed:</b> {observed_display}<br/>
+                    <b>Flux:</b> {flux_display}<br/>
+                    <b>Uncertainty:</b> {uncertainty_display}<br/>
+                    <b>Satellite:</b> {platform}<br/>
+                    <b>Sector:</b> {sector}
+                """,
+                "style": {
+                    "backgroundColor": "#17283A",
+                    "color": "white",
+                    "fontSize": "12px",
+                },
+            },
+        )
+
+        st.pydeck_chart(deck, use_container_width=True)
     st.subheader('Validated observations')
-    st.dataframe(df,use_container_width=True)
-else:st.warning('No valid detections were ingested; inspect quarantine and confirm field mapping.')
+    st.dataframe(df, use_container_width=True)
+else:
+    st.warning('No valid detections were ingested; inspect quarantine and confirm field mapping.')
 st.subheader('Pipeline observability')
 st.json(meta)
 q=root/'quarantine.csv'
